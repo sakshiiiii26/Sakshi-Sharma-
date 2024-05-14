@@ -1,0 +1,46 @@
+.page{
+    position: fixed;
+    align-items: center;
+    width:1410px;
+}
+#box1{
+    background-color:black;
+    height:60px;
+    }
+#logo{
+    color:#EFBA1E;
+    display:inline-block;
+    margin-right: 110px;
+    margin-left: 10px;
+    }
+
+#text{
+    color: white;
+    margin-right: 110px;
+}
+#button{
+    position: relative;
+    right: 3px;
+    background-color:#EFBA1E ;
+    
+}
+#box2{
+    background-color: rgba(95, 215, 224, 0.5);
+    height: 600px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(81, 5, 5);
+}
+footer{
+    background-color: rgba(23, 2, 2, 0.982);
+    height: 100px;
+    border-width:3px;
+    border-style: solid;
+    border-color: rgb(6, 37, 84);
+    color: aliceblue;
+}
+.search{
+    position: absolute ;
+    top:50%;
+    left: 45%;
+}
